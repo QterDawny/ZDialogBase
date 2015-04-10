@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/btn_dlg_close.png</file>
+        <file>images/btn_dlg_close_hover.png</file>
+        <file>images/btn_dlg_close_pressed.png</file>
+        <file>images/btn_dlg_max.png</file>
+        <file>images/btn_dlg_max_hover.png</file>
+        <file>images/btn_dlg_max_pressed.png</file>
+        <file>images/btn_dlg_min.png</file>
+        <file>images/btn_dlg_min_hover.png</file>
+        <file>images/btn_dlg_min_pressed.png</file>
+        <file>images/bg_dlg_main.png</file>
+        <file>images/bg_title.png</file>
+    </qresource>
+</RCC>
